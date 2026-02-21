@@ -6,6 +6,7 @@ import pandas as pd
 """Usage: This program is used to run GLORI-tools"""
 """Input: [.fastq]"""
 
+"""import modules used in the script"""
 import os, sys
 import argparse
 import time
@@ -305,5 +306,6 @@ if __name__ == "__main__":
     if baseanno == 'None':
         background = 'overall'
     run_command(options.fastq,options.combine,options.untreated,options.rvs_fac,Threads)
+
 
 

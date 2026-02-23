@@ -1,4 +1,5 @@
 # GLORI-tools v1.0
+** We forked this from the original source, but corrected some errors.**
 **GLORI-tools currently works, but is still being optimized for a better user experience.**
 
 *🔥NEW🔥 Hi, many friends have encountered various issues while building the STAR index. Please make sure you run this step with enough memory. Additionally, you can use chromosomes 1-22 + X, Y, Z in hg38 as your genome. Please ensure that your genome sequence's name begins with "chr" as we have only tested GLORI on human and mouse genomes.
